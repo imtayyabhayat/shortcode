@@ -7,4 +7,4 @@
 
 **Free Programming, Hell Yeah!**
 
-[GoReview]: <https://github.com/joemccann/dillinger>
+[GoReview]: <https://www.my.goreviewgenie.com/review-calc>
